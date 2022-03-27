@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeNumberCheckerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-27T02:50:51" hostname="Chrispins-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="shouldReturnTrueIfNumberIsPrime()" classname="PrimeNumberCheckerTest" time="0.022"/>
+  <testcase name="shouldReturnFalseIfNumberIsLessThanTwo()" classname="PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="shouldReturnFalseIfNumberIsNotPrime()" classname="PrimeNumberCheckerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
